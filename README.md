@@ -1,2 +1,2 @@
 # arimastate
-state space formulation of arima models
+python module for state space formulation of arima models
