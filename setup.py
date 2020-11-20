@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="arimastate",
-    version="0.0.1",
+    version="0.0.3",
     author="Andrea Dapor",
     author_email="andrea.dapor@gmail.com",
     description="python module for state space formulation of arima models",
@@ -19,4 +19,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
+    install_requires=['numpy', 'scipy', 'sympy']
 )

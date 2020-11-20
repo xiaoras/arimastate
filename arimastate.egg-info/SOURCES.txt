@@ -1,0 +1,9 @@
+README.md
+setup.py
+arimastate/__init__.py
+arimastate/model.py
+arimastate.egg-info/PKG-INFO
+arimastate.egg-info/SOURCES.txt
+arimastate.egg-info/dependency_links.txt
+arimastate.egg-info/requires.txt
+arimastate.egg-info/top_level.txt
